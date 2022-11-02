@@ -7,6 +7,7 @@ Werkzeug==2.2.2
 ipython==8.6.0
 opencv-python
 voila==0.4.0a0
+notebook==6.5.2
 certifi==2020.6.20
 chardet==3.0.4
 click==8.1.3
